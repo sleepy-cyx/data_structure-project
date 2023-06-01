@@ -1,0 +1,11 @@
+release/imagewidget.o
+release/main.o
+release/demo.o
+release/edge.o
+release/point.o
+release/graph.o
+release/controller.o
+release/qrc_image.o
+release/qrc_txt.o
+release/moc_demo.o
+release/moc_controller.o

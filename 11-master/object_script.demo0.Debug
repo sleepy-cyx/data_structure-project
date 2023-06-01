@@ -1,0 +1,11 @@
+debug/imagewidget.o
+debug/main.o
+debug/demo.o
+debug/edge.o
+debug/point.o
+debug/graph.o
+debug/controller.o
+debug/qrc_image.o
+debug/qrc_txt.o
+debug/moc_demo.o
+debug/moc_controller.o
